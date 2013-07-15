@@ -1,5 +1,5 @@
 ## vermont
-experimental library for upgrading version
+experimental library for upgrading versions
 
 ## motivation
 upgrading versions is really hard, but also really super useful, in case you ever want to change
